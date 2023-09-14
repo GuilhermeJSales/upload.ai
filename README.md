@@ -3,7 +3,7 @@
 ![upload AI-14-September-2023](https://github.com/GuilhermeJSales/upload.ai/assets/90631825/7449acf1-d6e6-47d5-8f14-5975658115eb)
 
 <p>
-  Integração com api da openai, para desenvolver sistema que converte mp4 em mp3 e cria descrições e títulos de acordo com o conteúdo do vídeo convertido.
+  Aplicação que possibilita realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação.
 </p>
 
 
